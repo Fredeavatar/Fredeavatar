@@ -1,16 +1,12 @@
-## Hi there 👋
+## Ola, me chamo Frederico Dellú
 
-<!--
-**Fredeavatar/Fredeavatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sou estudante e estou no 3° semestre do curso de Análise e Desenvolvimento de Sistemas na UNIP.
+- 🌱 Tenho conhecimento basico em C e lógica de programação.
+- 👯 Atualmente estou aprendendo Programação Orientada a Objetos em C#
+- 📫 Meu contato pessoal: fredericobarreto@hotmail.com.br
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/Fredeavatar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fredeavatar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredeavatar&layout=compact&langs_count=16&theme=dracula"/>
+</div>
